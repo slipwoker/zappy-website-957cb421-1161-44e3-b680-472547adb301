@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Feeling stuck in life and overwhelmed? Peak Space offers a calm, focused environment designed to help you rediscover direction, purpose, and peace. Start your journey today.
+
+### Services
+https://example.com/services
+Services | Peak Space. Peak Space
+
+### About
+https://example.com/about
+Peak Space was built for those feeling stuck in life and overwhelmed — learn the story, values, and human intention behind a brand designed to bring stillness and direction back to your world.
+
+### Contact
+https://example.com/contact
+Ready to stop feeling overwhelmed and start moving forward? Reach out to Peak Space today and take the first real step toward clarity, direction, and a life that finally feels like yours.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
